@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include<conio.h>
 int main(void) {
 	// your code goes here
 	int a,b,c,ans;
